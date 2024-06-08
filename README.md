@@ -30,7 +30,6 @@ Agile vs. Waterfall Models:
 Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
     Agile is prefferable in situations where software requirements may change with time and also user feedback is important,while Waterfall is useful for projects with stable requirements, direct approach, clear, and unchanging end goal.
 
-    Agile vs. Waterfall Models:
     Agile:
         #Capability to adapt to changes, and feedback during the project.
         #SoftwareS are developed in small, manageable parts.
